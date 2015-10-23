@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Müllkalender Bünde</string>
+
     <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="tab_title_list">Liste</string>
+    <string name="tab_title_calendar">Kalender</string>
+
+    <string name="hello_blank_fragment">Hello Calendar fragment</string>
+
 </resources>
