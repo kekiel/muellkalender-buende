@@ -1,1 +1,2 @@
-include ':app'
+include ':app', ':timessquare'
+project(':timessquare').projectDir = new File('assets/android-times-square-master/library')

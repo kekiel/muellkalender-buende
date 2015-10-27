@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MuellkalenderBuende2016.iml" filepath="$PROJECT_DIR$/MuellkalenderBuende2016.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assets/android-times-square-master/library/timessquare.iml" filepath="$PROJECT_DIR$/assets/android-times-square-master/library/timessquare.iml" />
     </modules>
   </component>
 </project>
