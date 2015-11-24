@@ -6,12 +6,33 @@
 	"country" : "Germany",
 	"latitude" : 52.2101791,
 	"longitude" : 8.4854144,
-	"trashtypes" : {
-		"GB" : "Restmüll (grauer und blauer Deckel)",
-		"GG" : "Restmüll (grauer und blauer Deckel)",
-		"BIO" : "Biomüll und Altpapier",
-		"AK" : "Altkleidersammlung"
-	},
+	"trashtypes" : [
+		{
+			"shortname" : "GB",
+			"fullname" : "Restmüll (grauer und blauer Deckel)",
+			"icon" : "ic_bins_grged",
+			"color" : ""
+		},
+				{
+			"shortname" : "GG",
+			"fullname" : "Restmüll (grauer und blauer Deckel)",
+			"icon" : "ic_bins_grbld",
+			"color" : ""
+		},
+				{
+			"shortname" : "BIO",
+			"fullname" : "Biomüll und Altpapier",
+			"icon" : "ic_bins_bio",
+			"color" : ""
+		},
+				{
+			"shortname" : "AK",
+			"fullname" : "Altkleidersammlung",
+			"icon" : "ic_bins_gs",
+			"color" : ""
+		}
+	]
+	,
 	"districts" : [{
 		"name" : "Bezirk 1",
 		"sections" : [
