@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import com.hoch5next.muellkalender.buende.database.DatesListAdapter;
 import com.hoch5next.muellkalender.buende.dummy.DummyContent;
 
 /**
@@ -28,6 +29,8 @@ public class TrashdateListFragment extends ListFragment {
     private String mParam2;
 
     private OnFragmentInteractionListener mListener;
+
+    private DatesListAdapter mDatesListAdapter;
 
     // TODO: Rename and change types of parameters
     public static TrashdateListFragment newInstance(String param1, String param2) {
@@ -55,9 +58,10 @@ public class TrashdateListFragment extends ListFragment {
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
 
+        mDatesListAdapter = new DatesListAdapter(MuellkalenderApp.myFirebaseDb.child("districts/0/dates"), getActivity(), R.layout.date_list_entry);
+
         // TODO: Change Adapter to display your content
-        setListAdapter(new ArrayAdapter<DummyContent.DummyItem>(getActivity(),
-                android.R.layout.simple_list_item_1, android.R.id.text1, DummyContent.ITEMS));
+        setListAdapter(mDatesListAdapter);
     }
 
 

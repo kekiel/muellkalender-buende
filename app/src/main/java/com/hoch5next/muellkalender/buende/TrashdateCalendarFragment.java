@@ -7,8 +7,13 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.hoch5next.muellkalender.buende.calendar.CalendarDayDecorator;
+import com.squareup.timessquare.CalendarCellDecorator;
+import com.squareup.timessquare.CalendarCellView;
 import com.squareup.timessquare.CalendarPickerView;
 
+import java.util.Arrays;
 import java.util.Calendar;
 import java.util.Date;
 
@@ -75,8 +80,10 @@ public class TrashdateCalendarFragment extends Fragment {
 
         CalendarPickerView calendar = (CalendarPickerView) view.findViewById(R.id.calendar_view);
         Date today = new Date();
+        calendar.setDecorators(Arrays.<CalendarCellDecorator>asList(new CalendarDayDecorator()));
         calendar.init(today, nextYear.getTime())
-                .withSelectedDate(today);
+                .withSelectedDate(today)
+                ;
         return view;
     }
 

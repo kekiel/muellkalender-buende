@@ -1,0 +1,41 @@
+calendars : 
+[{
+	"name" : "Müllkalender Bünde",
+	"city" : "Bünde",
+	"postcode" : "32257",
+	"country" : "Germany",
+	"latitude" : 52.2101791,
+	"longitude" : 8.4854144,
+	"trashtypes" : {
+		"GB" : "Restmüll (grauer und blauer Deckel)",
+		"GG" : "Restmüll (grauer und blauer Deckel)",
+		"BIO" : "Biomüll und Altpapier",
+		"AK" : "Altkleidersammlung"
+	}
+	"districts" : {
+		"name" : "Bezirk 1",
+		"sections" : [
+			{
+				"street" : "Ahler Straße",
+				"comment : "Boschstr. bis Rödinghauser Str."
+			},
+			{
+				"street: "Am Flachhof"
+			},
+			{
+				"street": "Am Schnellweg"
+			}
+		],
+		"dates" : [
+			{
+				"date" : "2015-11-30",
+				"type" : "GB"
+			},
+			{
+				"date" : "2015-12-03",
+				"type" : "BIO"
+			}
+		]		
+	}
+}
+]

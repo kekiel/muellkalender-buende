@@ -20,6 +20,9 @@ import android.view.ViewGroup;
 
 import android.widget.TextView;
 
+import com.firebase.client.Firebase;
+
+
 public class MainActivity extends AppCompatActivity implements TrashdateListFragment.OnFragmentInteractionListener, TrashdateCalendarFragment.OnFragmentInteractionListener {
 
     /**
@@ -58,6 +61,8 @@ public class MainActivity extends AppCompatActivity implements TrashdateListFrag
                         .setAction("Action", null).show();
             }
         });
+
+
 
     }
 
