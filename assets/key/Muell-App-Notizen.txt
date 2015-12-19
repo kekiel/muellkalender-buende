@@ -1,0 +1,37 @@
+Auswahl der Straße in den Einstellungs-Dialog integrieren
+Liste der Termine bauen, inkl. Icons
+Kalendertermine einfärben
+Share-Button einbauen
+Beim Start der App: Automatisch auf das Eintragen der Straße verweisen
+Benachrichtigungs-Intervall auf 15 Min. in den Einstellungen
+Info / Impressums-Seite einbauen
+Werbebanner einbauen
+
+graue Tonne mit grauem Deckel + graue Tonne mit blauem Deckel
+graue Tonne mit grauem Deckel + graue Tonne mit gelbem Deckel
+grüne Tonne + braune Tonne
+Gelbe Säcke / gelber Sack vor grüner Tonne
+Altkleider  (blau Säcke / blauer Sack)
+
+
+- Update-Prüfung
+- Weitersagen
+- Einstellungen
+
+
+Grün:
+99cc00
+
+Rot:
+ff4444
+
+
+- - - - - - - - - - -
+
+
+Keystore in:
+/Projekte/H/hoch5/hoch5_next/App-Entwicklung/Profile_und_Zertifikate/Zertifikat-Android/Android-Keystore/Android-App-Keystore
+Keystore-Passwort: (s. Datei auf NIRWANA)
+Passwort: (s. Datei auf NIRWANA)
+Alias: “hoch5 next apps”
+

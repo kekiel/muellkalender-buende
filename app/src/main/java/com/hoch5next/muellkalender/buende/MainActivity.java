@@ -1,5 +1,6 @@
 package com.hoch5next.muellkalender.buende;
 
+import android.content.Intent;
 import android.net.Uri;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
@@ -63,7 +64,6 @@ public class MainActivity extends AppCompatActivity implements TrashdateListFrag
         });
 
 
-
     }
 
     /**
@@ -88,6 +88,8 @@ public class MainActivity extends AppCompatActivity implements TrashdateListFrag
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            Intent intent = new Intent(this, SettingsActivity.class);
+            startActivity(intent);
             return true;
         }
 

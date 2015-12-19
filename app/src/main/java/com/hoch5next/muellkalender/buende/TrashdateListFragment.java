@@ -58,7 +58,7 @@ public class TrashdateListFragment extends ListFragment {
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
 
-        mDatesListAdapter = new DatesListAdapter(MuellkalenderApp.myFirebaseDb.child("districts/0/dates"), getActivity(), R.layout.date_list_entry);
+        mDatesListAdapter = new DatesListAdapter(MuellkalenderApp.myFirebaseDb.child("districtdates/1"), getActivity(), R.layout.date_list_entry);
 
         // TODO: Change Adapter to display your content
         setListAdapter(mDatesListAdapter);

@@ -1,0 +1,72 @@
+http://www.amazon.de/Book-Studio-externe-Festplatte-Metallgeh%C3%A4use/dp/B00FGWR7BC
+
+heyer@hoch5.com 7NxiWqoH4g
+dps.528@hoch5-next.com  ZcRXsy4h9r
+dps.smarthouse.aphone@hoch5-next.com
+dps.peak@hoch5-next.com ju1rtuh8da
+dps.steute@hoch5-next.com wegy2row
+dps.steute.android@hoch5-next.com tho1zi4zor
+dps.lukas@hoch5-next.com TK42ENLQyG
+dps.soon@hoch5-next.com WT9q3uFZyd
+dps.haecker@hoch5-next.com dort2dum
+dps.rotpunkt@hoch5-next.com 3VokN4Khtp
+dps.smarthouse@hoch5-next.com i3HW4tqgRu
+dps.hochfuenf@hoch5-next.com iusvw#86s!X
+dps.dbb@hoch5-next.com Qwq3pV#6jGZ
+dps.off@hoch5-next.com sb4h3NiV
+
+Keystore:
+/Volumes/Projekte/H/hoch5/hoch5_next/App-Entwicklung/Profile_und_Zertifikate/Zertifikat-Android/Android-Keystore/Android-App-Keystore-Kopie.keystore
+
+Häcker, steute, DBB DPS App
+Verwendeter Key: hoch5_next
+
+Lukas, Smarthouse (Small)
+Verwendeter Key: "hoch5 next apps"
+
+
+/Projekte/H/hoch5/hoch5_next/App-Entwicklung/Profile_und_Zertifikate/Zertifikat-Android/Android-Keystore/Android-App-Keystore
+
+Key-Alias: "hoch5_next"
+SHA1: B1:86:FD:89:89:8C:C1:D8:1C:E6:80:DB:D7:BD:4F:A9:97:AA:DC:E1
+PW: Hoch5darfdas
+
+
+Key-Alias: "hoch5 next apps"
+SHA1: C3:B8:51:F6:7A:0C:79:26:87:98:2B:40:70:67:17:EF:C4:31:B7:15
+PW: rhar7ki9be
+
+
+
+
+Hoch5 Agentur GmbH & Co. KG
+Adobe Kundennummer 22059474
+Adobe-ID: heyer@hoch5.com
+Passwort zu dieser Adobe-ID: 7NxiWqoH4g
+Ablaufdatum: 16.09.2014
+
+SNAP Innovation Softwareentwicklung GmbH
+Max-Brauer-Allee 50
+D-22765 Hamburg
+Web: www.snap.de
+
+Ansprechpartner dort:
+Paul Hörbelt
+Tel: +49(0)40 / 389044 - 34
+Mobile: +49(0)173/2755502
+Email: paul.hoerbelt@snap.de
+
+
+
+
+CCP Software GmbH - Softwarelizenzierung für Unternehmen
+Rudolf-Breitscheid-Str. 1-5
+35037 Marburg
+Internet: http://www.ccpsoft.de
+
+Ansprechpartner dort:
+Daniel Fink
+Tel: +49-6421-1701-39
+Fax: +49-6421-1701-99
+Mobil: +49-17611-1701-39
+E-Mail: dfink@ccpsoft.de
